@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": 0
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": 1
+    },
+    {
+      "question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+      "options": ["Oxygen", "Hydrogen sulphide", "Carbon dioxide", "Nitrogen"],
+      "answer": 2
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+        "answer": 3
+    }
+  ]
+  
